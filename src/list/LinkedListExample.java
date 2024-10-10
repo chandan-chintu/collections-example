@@ -39,11 +39,17 @@ public class LinkedListExample {
             System.out.println(listElement);
         }
 
+// dummy changes
+		//dummy line
+
         // iterator
         System.out.println("Using Iterator to traverse the list1");
         Iterator itr1 = list1.iterator();
         while (itr1.hasNext()){
             System.out.println(itr1.next());
         }
+		// dummy changes
+		//dummy line
+
     }
 }

@@ -18,6 +18,9 @@ public class ArrayListExample {
         list1.add(40);
         list1.add(20);
         list1.add(30);
+		// dummy changes
+		//dummy line
+
 
         System.out.println("after adding : "+list1);
 
@@ -42,6 +45,9 @@ public class ArrayListExample {
         for(Integer listElement :list1){
             System.out.println(listElement);
         }
+		// dummy changes
+		//dummy line
+
 
         // iterator
         System.out.println("Using Iterator to traverse the list1");
@@ -49,6 +55,8 @@ public class ArrayListExample {
         while (itr1.hasNext()){
             System.out.println(itr1.next());
         }
+		// dummy changes
+		//dummy line
 
     }
 }
