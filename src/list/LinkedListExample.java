@@ -17,6 +17,7 @@ public class LinkedListExample {
 
         System.out.println("after adding : "+list1);
 
+//some more change
         // remove data
         list1.remove(3);
         System.out.println("After removing 3rd index element : "+list1);
