@@ -17,6 +17,8 @@ public class HashSetExample {
         set1.add("Ravi");
         set1.add(null);
         set1.add(null);
+		
+		//teste code
 
         System.out.println("set1 content is  : "+set1);
 
@@ -34,6 +36,7 @@ public class HashSetExample {
             System.out.println(setElement);
         }
 
+//teste code
         // iterator
         System.out.println("Using Iterator to traverse the set1");
         Iterator itr1 = set1.iterator();
