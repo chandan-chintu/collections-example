@@ -43,6 +43,7 @@ public class StackExample {
         for(Integer listElement :stk1){
             System.out.println(listElement);
         }
+		// new new lines// new new lines
 
         // iterator
         System.out.println("Using Iterator to traverse the stk1");
