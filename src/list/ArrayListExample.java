@@ -20,6 +20,8 @@ public class ArrayListExample {
         list1.add(30);
 		// dummy changes
 		//dummy line
+		
+		// extra lines of code added
 
 
         System.out.println("after adding : "+list1);
@@ -47,6 +49,9 @@ public class ArrayListExample {
         }
 		// dummy changes
 		//dummy line
+		
+		// extra lines of code added
+		
 
 
         // iterator
