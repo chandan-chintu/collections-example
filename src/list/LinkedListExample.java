@@ -16,6 +16,7 @@ public class LinkedListExample {
         list1.add(30);
 
         System.out.println("after adding : "+list1);
+		// extra lines
 
 //some more change
         // remove data
@@ -32,6 +33,10 @@ public class LinkedListExample {
 
         // size of list1
         System.out.println("size of list1 is :" +list1.size());
+		// extra lines
+		
+		// extra lines
+		// extra lines
 
         // traversing the list1
         // foreach way

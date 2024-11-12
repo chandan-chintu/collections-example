@@ -10,6 +10,8 @@ public class StackExample {
 
         // define stack
         Stack<Integer>  stk1 = new Stack<Integer>();
+		
+		// extra lines
 
         // adding element into stack
         stk1.push(12);
@@ -25,6 +27,9 @@ public class StackExample {
         System.out.println("after poping 1 element : "+stk1);
         stk1.pop();
         System.out.println("after poping 2 element : "+stk1);
+		
+		// extra lines
+		// extra lines
 
         Collections.sort(stk1);
         System.out.println("after sorting stk1 : "+stk1);
