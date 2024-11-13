@@ -23,7 +23,7 @@ public class ArrayListExample {
 		
 		// extra lines of code added
 
-
+// new new lines
         System.out.println("after adding : "+list1);
 
         // remove data

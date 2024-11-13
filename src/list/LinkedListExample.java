@@ -44,6 +44,7 @@ public class LinkedListExample {
         for(Integer listElement :list1){
             System.out.println(listElement);
         }
+		// new new lines
 
 // dummy changes
 		//dummy line
@@ -56,6 +57,8 @@ public class LinkedListExample {
         }
 		// dummy changes
 		//dummy line
+		
+		// new new lines
 
     }
 }
